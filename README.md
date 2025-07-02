@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Sobre mí
 
-<!--
-**manu-dv/manu-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Titulado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y en **Sistemas Microinformáticos y Redes (SMR)**.
 
-Here are some ideas to get you started:
+💻 Soy un apasionado por la tecnología y el desarrollo de software, con un enfoque principal en el lenguaje **Java**, que es mi herramienta favorita para crear soluciones robustas y eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Conocimientos Técnicos
+
+- **Lenguajes de Programación:** Java (principal), C, JavaScript (JS), Scripting (Bash)
+- **Bases de Datos:** Oracle, MongoDB, PostgreSQL, PHPMyAdmin
+- **Frontend:** HTML, CSS, JS, Flutter
+- **Otros:** Git, Docker, JSON, XML
+
+## 🚀 En Aprendizaje
+
+Actualmente me encuentro aprendiendo y profundizando de forma autodidacta en el framework **Spring Boot** para el desarrollo de aplicaciones web modernas y escalables con Java.
+
+---
+
+📫 Proximamente subiré mis primeros proyectos para darle vida a este repositorio. Nos vemos!!
+
+
