@@ -1,22 +1,30 @@
-# 👨‍💻 Sobre mí
+# 👋 Hi, I’m Manuel Martin
 
-🎓 Titulado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y en **Sistemas Microinformáticos y Redes (SMR)**.
-
-💻 Soy un apasionado por la tecnología y el desarrollo de software, con un enfoque principal en el lenguaje **Java**, que es mi herramienta favorita para crear soluciones robustas y eficientes.
-
-## 🧠 Conocimientos Técnicos
-
-- **Lenguajes de Programación:** Java (principal), C, JavaScript (JS), Scripting (Bash)
-- **Bases de Datos:** Oracle, MongoDB, PostgreSQL, PHPMyAdmin
-- **Frontend:** HTML, CSS, JS, Flutter
-- **Otros:** Git, Docker, JSON, XML
-
-## 🚀 En Aprendizaje
-
-Actualmente me encuentro aprendiendo y profundizando de forma autodidacta en el framework **Spring Boot** para el desarrollo de aplicaciones web modernas y escalables con Java.
+👀 **Interests:** Coding 💻 | Music 🎵 | Video Games 🎮  
+🌱 **Currently learning:** A lot of stuff
 
 ---
 
-📫 Proximamente subiré mis primeros proyectos para darle vida a este repositorio. Nos vemos!!
+## 🧠 About Me
+- Passionate about technology and continuous learning  
+- I enjoy building things, solving problems, and experimenting
 
+---
 
+## 🛠️ Tech Stack
+- 💻 JavaScript
+- 🌐 HTML & CSS
+- 🎯 Dart
+- ☕ Java
+- 🧑🏻‍💼 AL
+
+---
+
+## 🎯 Goals
+- Keep improving as a developer
+- Learn new tools and technologies
+- Build cool and useful projects
+
+---
+
+⭐️ *Thanks for visiting my profile!*
