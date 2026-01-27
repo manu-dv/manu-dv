@@ -1,30 +1,30 @@
-# 👋 Hi, I’m Manuel Martin
+# 👋 Hola, soy Manuel Martín
 
-👀 **Interests:** Coding 💻 | Music 🎵 | Video Games 🎮  
-🌱 **Currently learning:** A lot of stuff
-
----
-
-## 🧠 About Me
-- Passionate about technology and continuous learning  
-- I enjoy building things, solving problems, and experimenting
+👀 **Intereses:** Programación 💻 | Música 🎵 | Videojuegos 🎮  
+🌱 **Actualmente aprendiendo:** ¡muchas cosas!
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 JavaScript
-- 🌐 HTML & CSS
-- 🎯 Dart
-- ☕ Java
+## 🧠 Sobre mí
+- Apasionado por la tecnología y el aprendizaje continuo  
+- Me gusta crear cosas, resolver problemas y experimentar
+
+---
+
+## 🛠️ Tecnologías
+- 💻 JavaScript  
+- 🌐 HTML & CSS  
+- 🎯 Dart  
+- ☕ Java  
 - 🧑🏻‍💼 AL
 
 ---
 
-## 🎯 Goals
-- Keep improving as a developer
-- Learn new tools and technologies
-- Build cool and useful projects
+## 🎯 Objetivos
+- Seguir mejorando como desarrollador  
+- Aprender nuevas herramientas y tecnologías  
+- Crear proyectos interesantes y útiles
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
+⭐️ *¡Gracias por visitar mi perfil!*
