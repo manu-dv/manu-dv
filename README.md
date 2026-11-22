@@ -3,8 +3,7 @@
 # ¡Hola! Soy Manuel 👋
 ### Desarrollador de Software | Estudiante de Máster en Desarrollo Full Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
-www.linkedin.com/in/manuel-martín-rodríguez-69b236235)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-mart%C3%ADn-rodr%C3%ADguez-69b236235/)
 
 </div>
 
@@ -47,6 +46,6 @@ Soy desarrollador de software con **más de un año de experiencia profesional**
 ### 📊 Estadísticas en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manu-dv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-dv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
